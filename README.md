@@ -44,7 +44,7 @@ Na zakończenie zaprezentowano najważniejsze rezultaty, na podstawie których p
 Rekomendowanym użyciem jest załadowanie notatników jupyter na platformę google colab (https://colab.research.google.com/)
 
 ---
-**If you want to use my code in your thesis/work, please fork my project.**
+**If you want to use my code in your thesis/work, please leave any sign :) **
 ___
 
 
