@@ -42,3 +42,11 @@ Na zakończenie zaprezentowano najważniejsze rezultaty, na podstawie których p
  - requirements.txt
 
 Rekomendowanym użyciem jest załadowanie notatników jupyter na platformę google colab (https://colab.research.google.com/)
+
+---
+**If you want to use my code in your thesis/work, please fork my project.**
+___
+
+
+All Rights Reserved
+Copyright (c) by Oliwier Kaszyca 2022
